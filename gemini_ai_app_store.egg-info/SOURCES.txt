@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+gemini_ai_app_store.egg-info/PKG-INFO
+gemini_ai_app_store.egg-info/SOURCES.txt
+gemini_ai_app_store.egg-info/dependency_links.txt
+gemini_ai_app_store.egg-info/entry_points.txt
+gemini_ai_app_store.egg-info/top_level.txt
