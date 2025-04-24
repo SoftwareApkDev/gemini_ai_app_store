@@ -4,9 +4,9 @@ An app which can be used to easily download any apps with Google Gemini AI integ
 
 # Downloadable Apps
 
-| Name                                                            | Author                                                          | Latest Version |
-|-----------------------------------------------------------------|-----------------------------------------------------------------|----------------|
-| [Gemini Chat App](https://pypi.org/project/gemini-chat-app/) | [SoftwareApkDev](https://github.com/SoftwareApkDev)             | 1              |
+| Name                                                         | Author                                              | Latest Version |
+|--------------------------------------------------------------|-----------------------------------------------------|----------------|
+| [Gemini Chat App](https://pypi.org/project/gemini-chat-app/) | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1.2            |
 
 # Source Code
 
