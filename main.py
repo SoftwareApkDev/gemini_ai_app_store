@@ -24,8 +24,7 @@ AVAILABLE_APPS = {
     # Example: A hypothetical Gemini Chat app distributed as 'gemini_chat_app' on PyPi
     # and runnable with 'python -m gemini_chat_app'
     "Gemini Chat App": {"package_name": "gemini_chat_app", "module_name": "gemini_chat_app"},
-    # Example: Another hypothetical app
-    # "Gemini Image Generator": {"package_name": "gemini_image_gen", "module_name": "gemini_image_gen_cli"}, # assuming it has a runnable module
+    "Gemini Geometry Wars": {"package_name": "gemini_geometry_wars", "module_name": "gemini_geometry_wars"},
     # Add more Gemini-integrated apps here.
     # REMEMBER: These package_names must exist on PyPi, and module_names must be runnable.
 }
