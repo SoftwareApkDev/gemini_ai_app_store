@@ -25,6 +25,8 @@ AVAILABLE_APPS = {
     # and runnable with 'python -m gemini_chat_app'
     "Gemini Chat App": {"package_name": "gemini_chat_app", "module_name": "gemini_chat_app"},
     "Gemini Geometry Wars": {"package_name": "gemini_geometry_wars", "module_name": "gemini_geometry_wars"},
+    "Gemini Breakout": {"package_name": "gemini_breakout", "module_name": "gemini_breakout"},
+    "Gemini Agar.io": {"package_name": "gemini_agario", "module_name": "gemini_agario"},
     # Add more Gemini-integrated apps here.
     # REMEMBER: These package_names must exist on PyPi, and module_names must be runnable.
 }
