@@ -7,7 +7,7 @@ An app which can be used to easily download any apps with Google Gemini AI integ
 | Name                                                                   | Author                                              | Latest Version |
 |------------------------------------------------------------------------|-----------------------------------------------------|----------------|
 | [Gemini Chat App](https://pypi.org/project/gemini-chat-app/)           | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1.3            |
-| [Gemini Geometry Wars](https://pypi.org/project/gemini-geometry-wars/) | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
+| [Gemini Geometry Wars](https://pypi.org/project/gemini-geometry-wars/) | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1.1            |
 
 # Source Code
 
