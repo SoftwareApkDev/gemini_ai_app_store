@@ -27,6 +27,7 @@ AVAILABLE_APPS = {
     "Gemini Geometry Wars": {"package_name": "gemini_geometry_wars", "module_name": "gemini_geometry_wars"},
     "Gemini Breakout": {"package_name": "gemini_breakout", "module_name": "gemini_breakout"},
     "Gemini Agar.io": {"package_name": "gemini_agario", "module_name": "gemini_agario"},
+    "Gemini Outrun": {"package_name": "gemini_outrun", "module_name": "gemini_outrun"},
     # Add more Gemini-integrated apps here.
     # REMEMBER: These package_names must exist on PyPi, and module_names must be runnable.
 }
