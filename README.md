@@ -11,6 +11,7 @@ An app which can be used to easily download any apps with Google Gemini AI integ
 | [Gemini Breakout](https://pypi.org/project/gemini-breakout/)           | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1.2            |
 | [Gemini Agar.io](https://pypi.org/project/gemini-agario/)              | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              | 
 | [Gemini Outrun](https://pypi.org/project/gemini-outrun/)               | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              | 
+| [Gemini Pong](https://pypi.org/project/gemini-pong/)                   | [SoftwareApkDev](https://github.com/SoftwareApkDev) | 1              |
 
 # Source Code
 
